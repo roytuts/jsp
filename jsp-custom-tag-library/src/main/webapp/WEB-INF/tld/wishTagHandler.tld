@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib>
+    <!-- taglib version -->
+    <tlibversion>1.0</tlibversion>
+    <!-- jsp version -->
+    <jspversion>1.1</jspversion>
+    <!-- meaninful short name -->
+    <shortname>wish</shortname>
+    <!-- taglib description -->
+    <info>taglib for displaying name</info>
+    <!-- optional -->
+    <uri>https://www.jeejava.com/jsp/taglib/wish</uri>
+    <tag>
+        <!-- taglib name which will be used as a taglib name -->
+        <name>wish</name>
+        <!-- taglib class -->
+        <tagclass>com.jeejava.jsp.custom.tag.library.WishTagHandler</tagclass>
+        <!-- taglib function description -->
+        <info>display function</info>
+        <!-- taglib attribute -->
+        <attribute>
+            <name>name</name>
+            <required>true</required>
+        </attribute>
+    </tag>
+</taglib>
