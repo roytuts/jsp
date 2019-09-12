@@ -9,12 +9,12 @@
     <!-- taglib description -->
     <info>taglib for displaying name</info>
     <!-- optional -->
-    <uri>https://www.jeejava.com/jsp/taglib/wish</uri>
+    <uri>https://www.roytuts.com/jsp/taglib/wish</uri>
     <tag>
         <!-- taglib name which will be used as a taglib name -->
         <name>wish</name>
         <!-- taglib class -->
-        <tagclass>com.jeejava.jsp.custom.tag.library.WishTagHandler</tagclass>
+        <tagclass>com.roytuts.jsp.custom.tag.library.WishTagHandler</tagclass>
         <!-- taglib function description -->
         <info>display function</info>
         <!-- taglib attribute -->
