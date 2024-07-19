@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/jsp-custom-tag-library/
+Please follow the tutorial https://roytuts.com/jsp-custom-tag-library/
